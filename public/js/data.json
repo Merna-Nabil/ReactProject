@@ -1,0 +1,105 @@
+{
+    "Products" : [
+        {
+            "id" : 1,
+            "img": "/images/portfolio-1.jpg",
+            "title": "product1",
+            "btn": "Details"
+        },
+        {
+            "id" : 2,
+            "img": "/images/portfolio-2.jpg",
+            "title": "product2",
+            "btn": "Details"
+        },
+        {
+            "id" : 3,
+            "img": "/images/portfolio-3.jpg",
+            "title": "product3",
+            "btn": "Details"
+        },
+        {
+            "id" : 4,
+            "img": "/images/portfolio-4.jpg",
+            "title": "product4",
+            "btn": "Details"
+        },
+        {
+            "id" : 5,
+            "img": "/images/portfolio-5.jpg",
+            "title": "product5",
+            "btn": "Details"
+        },
+        {
+            "id" : 6,
+            "img": "/images/portfolio-6.jpg",
+            "title": "product6",
+            "btn": "Details"
+        },
+        {
+            "id" : 7,
+            "img": "/images/portfolio-7.jpg",
+            "title": "product7",
+            "btn": "Details"
+        },
+        {
+            "id" : 8,
+            "img": "/images/portfolio-8.jpg",
+            "title": "product8",
+            "btn": "Details"
+        },
+        {
+            "id" : 9,
+            "img": "/images/portfolio-9.jpg",
+            "title": "product9",
+            "btn": "Details"
+        }
+    ],
+    
+    "Whatwedo" : [
+        {
+            "id" : 1,
+            "icon": "fa fa-dribbble",
+            "title": "Lorem Ipsum",
+            "body": "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi"
+        },
+        {
+            "id" : 2,
+            "icon": "fa fa-file",
+            "title": "Sed ut perspiciatis",
+            "body": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore"
+        },
+        {
+            "id" : 3,
+            "icon": "fa fa-tachometer",
+            "title": "Magni Dolores",
+            "body": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia"
+        }
+    ],
+    "statistics" : [
+        {
+            "id" : 1,
+            "icon": "fa fa-smile-o",
+            "num": "232",
+            "body": "Happy clients"
+        },
+        {
+            "id" : 2,
+            "icon": "fa fa-tasks",
+            "num": "521",
+            "body": "projects"
+        },
+        {
+            "id" : 3,
+            "icon": "fa fa-handshake-o",
+            "num": "1,463",
+            "body": "Hours Of Support"
+        },
+        {
+            "id" : 4,
+            "icon": "fa fa-users",
+            "num": "15",
+            "body": "Hard Workers"
+        }
+    ]
+}
